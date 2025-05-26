@@ -1,0 +1,37 @@
+[
+  {
+    "name": "NUDGE SECURITY",
+    "icon": "linkedin",
+    "inactiveCount": 2,
+    "abandonedCount": 1,
+    "totalCount": 12
+  },
+  {
+    "name": "ASANA",
+    "icon": "asana",
+    "inactiveCount": 0,
+    "abandonedCount": 1,
+    "totalCount": 9
+  },
+  {
+    "name": "ATLASSIAN",
+    "icon": "atlassian",
+    "inactiveCount": 1,
+    "abandonedCount": 1,
+    "totalCount": 8
+  },
+  {
+    "name": "GITHUB",
+    "icon": "github",
+    "inactiveCount": 0,
+    "abandonedCount": 1,
+    "totalCount": 4
+  },
+  {
+    "name": "COHERE",
+    "icon": "cohere",
+    "inactiveCount": 0,
+    "abandonedCount": 1,
+    "totalCount": 4
+  }
+]

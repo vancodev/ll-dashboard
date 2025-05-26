@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "applications": {
+      "total": 300,
+      "unlinked": 250
+    },
+    "utilization": {
+      "average": 0.4,
+      "change": 0.05
+    },
+    "savings": {
+      "potential": 204000
+    }
+  }
+}
