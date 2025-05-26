@@ -43,7 +43,7 @@ Run the following commands in a terminal
 
 ```bash
 git clone git@github.com:vancodev/ll-dashboard.git
-cd ll-dashboard/ll-dashboard
+cd ll-dashboard/license-logic-dashboard
 npm install
 npm run dev
 ```
